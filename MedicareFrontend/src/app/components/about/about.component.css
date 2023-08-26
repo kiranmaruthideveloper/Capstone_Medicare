@@ -1,0 +1,39 @@
+.content-indentation {
+    padding-top: 6rem;
+    min-height: 100vh;
+}
+.content-indentation h1 {
+    text-align: center;
+    color: white;
+    padding-bottom: 3rem;
+}
+.data {
+    color: white;
+    font-size: larger;
+    padding-top: 5rem;
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+
+.data-body {
+    border: 1px solid black;
+    padding: 10px;
+    box-shadow: 5px 10px rgb(219, 12, 12);
+}
+
+.heading{
+   
+    padding: 15px;
+    font-family: cursive;
+    font-weight: bolder;
+    font-style: oblique;
+    
+    
+}
+
+.heading:hover{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+    border-radius: 100px;
+}

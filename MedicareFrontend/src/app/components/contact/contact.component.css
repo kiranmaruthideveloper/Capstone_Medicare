@@ -1,0 +1,46 @@
+.content-indentation {
+    padding-top: 6rem;
+    min-height: 100vh;
+}
+.content-indentation h1 {
+    text-align: center;
+    color: white;
+    padding-bottom: 3rem;
+}
+.data {
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    padding-top: 5rem;
+    padding-left: 20rem;
+    padding-right: 20rem;
+    text-align: center;
+}
+
+.data-body {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px rgb(101, 121, 62);
+}
+.data-text {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.data-text .icon {
+    font-size: 2rem;
+    color: yellowgreen;
+    margin: 0 5rem 0 15rem;
+}
+
+.contact{
+    padding: 15px;
+    font-family: cursive;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.contact:hover{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+    border-radius: 100px;
+}
